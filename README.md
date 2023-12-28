@@ -1,4 +1,4 @@
-# upx5
+# Projeto da disciplina UPX5, do curso de Análise e Desenvolvimento de Sistemas (Newton Paiva)
 
 # Guia para Executar o Aplicativo Python
 
